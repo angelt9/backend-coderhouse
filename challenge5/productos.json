@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Proteina",
+    "description": "1kg, Chocolate.",
+    "price": 5000,
+    "thumbnail": "Sin imagen",
+    "code": "ABC-001",
+    "stock": 0,
+    "id": 1,
+    "category": "Suplementos",
+    "status": true
+  },
+  {
+    "title": "Creatina",
+    "description": "1kg, Vainilla.",
+    "price": 10000,
+    "thumbnail": "Sin imagen",
+    "code": "ABC-002",
+    "stock": 10,
+    "id": 2,
+    "category": "Suplementos",
+    "status": true
+  },
+  {
+    "title": "Strap",
+    "description": "Fuerza, Agarre.",
+    "price": 1000,
+    "thumbnail": "Sin imagen",
+    "code": "ABC-003",
+    "stock": 23,
+    "id": 3,
+    "category": "Accesorios",
+    "status": true
+  }
+]
